@@ -1,0 +1,22 @@
+{
+  "name": "javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "JavaScript Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marthap1973/javaScript-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marthap1973/javaScript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/marthap1973/javaScript-fundamentals#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
